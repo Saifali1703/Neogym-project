@@ -32,7 +32,7 @@ NOW GOTO STATIC WEBSITE AND COPY URL AND PASTE IT IN NEW WEBTAB : ![Screenshot (
 OUR WEBSITE IS RUNNING SUCCESSFULLY AND WE CAN SEE VARIOUS TABS :![Screenshot (351)](https://github.com/Saifali1703/Neogym-project/assets/150070786/801e5d57-c33b-4f42-b813-6faec7da10b8)
 ![Screenshot (352)](https://github.com/Saifali1703/Neogym-project/assets/150070786/ca1eabe0-c16d-40d9-a2ff-aeedbb580161)
 ![Screenshot (355)](https://github.com/Saifali1703/Neogym-project/assets/150070786/cc9803dc-1184-4094-91ed-c7097ae06ca3)
-NOW WE CAN USE CHATBOT TO : ![Screenshot (356)](https://github.com/Saifali1703/Neogym-project/assets/150070786/1a90ae95-cf72-49d7-a1fe-f7c6258c4836)
+NOW WE CAN USE CHATBOT IN OUR WEBSITE : ![Screenshot (356)](https://github.com/Saifali1703/Neogym-project/assets/150070786/1a90ae95-cf72-49d7-a1fe-f7c6258c4836)
 
 
 
