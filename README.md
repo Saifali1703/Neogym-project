@@ -1,10 +1,10 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
 
 <h2>Project Details</h2>
-<b>Project Demo URL :</b>  <br>
+<b>Project Demo URL :</b> https://neogym987.z13.web.core.windows.net/ <br>
 <b>Demo Video URL :</b>
 https://youtu.be/F57ICiCDwfY  <br>
-<b>Github Repository URL :</b>  <br>
+<b>Github Repository URL :</b> https://github.com/Saifali1703/Neogym-project <br>
 <b>Industry :</b> Lifestyle <br>
 <h2>Azure Services Used</h2>
 <h3>
@@ -26,6 +26,10 @@ Welcome to our premier gym's official website, where fitness meets innovation an
     <li>Equipment Management</li>
     <li>Integration with Wearables</li>
 </ul>
+<h2>Roles and Responsibilities of our team members:</h2>
+<br>Saifali : Development and Deployment </br>
+<br>Amulya :AI service</br>
+<br>Sangeetha :Content Collection</br>
 <h2>Core Azure Services</h2>
 <b>Azure Blob storage :</b><br><p align="justify"><br>Azure Blob Storage is an object storage service that allows you to store and manage unstructured data, such as documents, images, videos, and other large binary or text data.</p>
 <b>Azure Keyvault :</b><br><p align="justify">Azure Key Vault is a cloud service offered by Microsoft Azure that allows you to securely store and manage sensitive information such as secrets, encryption keys, and certificates. It provides a centralized and secure repository for managing and controlling access to keys and secrets used by cloud applications and services</p>
