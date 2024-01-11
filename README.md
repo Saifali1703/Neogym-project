@@ -1,5 +1,37 @@
-# Neogym-project
+<h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
+
+<h2>Project Details</h2>
+<b>Project Demo URL :</b>  <br>
+<b>Demo Video URL :</b>
+https://youtu.be/F57ICiCDwfY  <br>
+<b>Github Repository URL :</b>  <br>
+<b>Industry :</b> Lifestyle <br>
+<h2>Azure Services Used</h2>
+<h3>
+Core Azure Services : <br>
+1. Azure Blob storage <br>
+2. Azure key vault <br> <br>
+Azure AI Service <br>
+1. Azure AI Bot Service
+</h3>
+<h1>Neogym - project</h1> 
 Welcome to our premier gym's official website, where fitness meets innovation and community thrives. At our state-of-the-art facility, we are committed to providing a transformative fitness experience that caters to individuals of all levels and aspirations. Explore our cutting-edge equipment, meticulously designed workout spaces, and a range of invigorating classes led by expert trainers. Whether you're a seasoned fitness enthusiast or just starting your wellness journey, our website is your gateway to a wealth of resources, including personalized workout plans, nutritional guidance, and motivational content. Join our vibrant online community, where members share success stories, tips, and support, fostering a sense of camaraderie that extends beyond the gym floor. Discover the power of a healthier, happier you by navigating through our user-friendly website, designed to inspire and empower you on your path to fitness excellence. Welcome to a place where every workout is a step toward a stronger, more vibrant version of yourself.
+<h2>Project Description</h2>
+<p align="justify">Neogym is an innovative gym management system designed to streamline and enhance the overall fitness center experience for both gym owners and members. This comprehensive solution leverages cutting-edge technology to provide a seamless and efficient platform for managing various aspects of gym operations. Whether you're a fitness enthusiast looking for a personalized workout experience or a gym owner aiming to optimize business processes, Neogym has you covered.</p><br>
+<b>Key Features :</b>
+<ul>
+    <li>Member Management</li>
+    <li>Personalized Workouts</li>
+    <li>Billing and Payments</li>
+    <li>Equipment Management</li>
+    <li>Integration with Wearables</li>
+</ul>
+<h2>Core Azure Services</h2>
+<b>Azure Blob storage :</b><br><p align="justify"><br>Azure Blob Storage is an object storage service that allows you to store and manage unstructured data, such as documents, images, videos, and other large binary or text data.</p>
+<b>Azure Keyvault :</b><br><p align="justify">Azure Key Vault is a cloud service offered by Microsoft Azure that allows you to securely store and manage sensitive information such as secrets, encryption keys, and certificates. It provides a centralized and secure repository for managing and controlling access to keys and secrets used by cloud applications and services</p>
+<h2>Azure AI Bot Service</h2>
+<b>Azure AI Bot service :</b><br><br><p align="justify">Microsoft Azure provides a service known as Azure Bot Service, which allows developers to build, deploy, and manage intelligent bots that can interact with users across various channels. It's a part of the broader Azure AI services and Cognitive Services. </p>
+<h1>Step's I Followed For My Project:</h1>
 
 LOGIN TO AZURE PORTAL :![Screenshot (357)](https://github.com/Saifali1703/Neogym-project/assets/150070786/6665a08f-913e-41d7-80d7-f681eae84218)
 CREATE AZURE STORAGE ACCOUNT : ![Screenshot (358)](https://github.com/Saifali1703/Neogym-project/assets/150070786/217e728e-b072-4c72-a1fc-2936a1d6ed77)
